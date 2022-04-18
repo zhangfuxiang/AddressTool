@@ -1,0 +1,122 @@
+[2022-04-15 21:36:12,832-INFO]:加载配置文件：F:\python project\address_tool\config.ini
+[2022-04-15 21:36:12,835-INFO]:配置项：['ak', 'days', 'is_switch', 'is_files', 'sep_location', 'is_header', 'maximum', 'threads', 'mongo_host', 'mongo_port', 'mongo_dbname', 'mongo_collection']
+[2022-04-15 21:36:12,969-INFO]:配置加载完成！
+[2022-04-15 21:36:16,033-INFO]:导出开始！
+[2022-04-15 21:36:16,033-INFO]:only，导出开始！
+[2022-04-15 22:42:52,318-INFO]:加载配置文件：F:\python project\address_tool\config.ini
+[2022-04-15 22:42:52,321-INFO]:配置项：['ak', 'days', 'is_switch', 'is_files', 'sep_location', 'is_header', 'maximum', 'threads', 'mongo_host', 'mongo_port', 'mongo_dbname', 'mongo_collection']
+[2022-04-15 22:42:52,469-INFO]:配置加载完成！
+[2022-04-15 22:43:15,421-INFO]:加载配置文件：F:\python project\address_tool\config.ini
+[2022-04-15 22:43:15,421-INFO]:配置项：['ak', 'days', 'is_switch', 'is_files', 'sep_location', 'is_header', 'maximum', 'threads', 'mongo_host', 'mongo_port', 'mongo_dbname', 'mongo_collection']
+[2022-04-15 22:43:15,548-INFO]:配置加载完成！
+[2022-04-15 22:43:33,595-INFO]:加载配置文件：F:\python project\address_tool\config.ini
+[2022-04-15 22:43:33,596-INFO]:配置项：['ak', 'days', 'is_switch', 'is_files', 'sep_location', 'is_header', 'maximum', 'threads', 'mongo_host', 'mongo_port', 'mongo_dbname', 'mongo_collection']
+[2022-04-15 22:43:33,726-INFO]:配置加载完成！
+[2022-04-15 22:43:53,241-INFO]:crawled is 0
+[2022-04-15 22:43:53,241-INFO]:only fetech address for 21.67716-100.0165
+[2022-04-15 22:43:53,241-INFO]:only Access convertUrl: https://restapi.amap.com/v3/assistant/coordinate/convert?locations=100.0165,21.67716&coordsys=gps&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:53,569-INFO]:only Access url: https://restapi.amap.com/v3/geocode/regeo?location=100.017565646702,21.674541286893&roadlevel=1&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:53,877-INFO]:only fetech address for 21.84927-99.80688
+[2022-04-15 22:43:53,877-INFO]:only Access convertUrl: https://restapi.amap.com/v3/assistant/coordinate/convert?locations=99.80688,21.84927&coordsys=gps&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:54,145-INFO]:only Access url: https://restapi.amap.com/v3/geocode/regeo?location=99.807833658855,21.846466200087&roadlevel=1&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:54,411-INFO]:only fetech address for 21.84827-99.80688
+[2022-04-15 22:43:54,412-INFO]:only Access convertUrl: https://restapi.amap.com/v3/assistant/coordinate/convert?locations=99.80688,21.84827&coordsys=gps&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:54,677-INFO]:only Access url: https://restapi.amap.com/v3/geocode/regeo?location=99.807833658855,21.845466851129&roadlevel=1&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:54,941-INFO]:only fetech address for 25.516062-103.782082
+[2022-04-15 22:43:54,941-INFO]:only Access convertUrl: https://restapi.amap.com/v3/assistant/coordinate/convert?locations=103.782082,25.516062&coordsys=gps&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:55,238-INFO]:only Access url: https://restapi.amap.com/v3/geocode/regeo?location=103.784136284723,25.51308186849&roadlevel=1&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:55,532-INFO]:only fetech address for 39.904619-116.397683
+[2022-04-15 22:43:55,532-INFO]:only Access convertUrl: https://restapi.amap.com/v3/assistant/coordinate/convert?locations=116.397683,39.904619&coordsys=gps&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:55,800-INFO]:only Access url: https://restapi.amap.com/v3/geocode/regeo?location=116.403924967448,39.906021592882&roadlevel=1&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:56,069-INFO]:only fetech address for 21.991231-100.332338
+[2022-04-15 22:43:56,070-INFO]:only Access convertUrl: https://restapi.amap.com/v3/assistant/coordinate/convert?locations=100.332338,21.991231&coordsys=gps&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:56,337-INFO]:only Access url: https://restapi.amap.com/v3/geocode/regeo?location=100.333473036025,21.988529459636&roadlevel=1&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:56,623-INFO]:only fetech address for 22.991231-101.332338
+[2022-04-15 22:43:56,624-INFO]:only Access convertUrl: https://restapi.amap.com/v3/assistant/coordinate/convert?locations=101.332338,22.991231&coordsys=gps&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:56,915-INFO]:only Access url: https://restapi.amap.com/v3/geocode/regeo?location=101.333918728299,22.98851264106&roadlevel=1&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:57,197-INFO]:only fetech address for 25.514062-103.782082
+[2022-04-15 22:43:57,198-INFO]:only Access convertUrl: https://restapi.amap.com/v3/assistant/coordinate/convert?locations=103.782082,25.514062&coordsys=gps&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:57,464-INFO]:only Access url: https://restapi.amap.com/v3/geocode/regeo?location=103.784136284723,25.511082628039&roadlevel=1&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:57,723-INFO]:only fetech address for 39.905619-116.397683
+[2022-04-15 22:43:57,724-INFO]:only Access convertUrl: https://restapi.amap.com/v3/assistant/coordinate/convert?locations=116.397683,39.905619&coordsys=gps&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:57,993-INFO]:only Access url: https://restapi.amap.com/v3/geocode/regeo?location=116.403925238716,39.907021484375&roadlevel=1&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:58,264-INFO]:only fetech address for 21.996231-100.332338
+[2022-04-15 22:43:58,264-INFO]:only Access convertUrl: https://restapi.amap.com/v3/assistant/coordinate/convert?locations=100.332338,21.996231&coordsys=gps&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:58,525-INFO]:only Access url: https://restapi.amap.com/v3/geocode/regeo?location=100.333473036025,21.99352701823&roadlevel=1&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:58,816-INFO]:only fetech address for 22.991331-101.332338
+[2022-04-15 22:43:58,816-INFO]:only Access convertUrl: https://restapi.amap.com/v3/assistant/coordinate/convert?locations=101.332338,22.991331&coordsys=gps&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:59,105-INFO]:only Access url: https://restapi.amap.com/v3/geocode/regeo?location=101.333918728299,22.988612738716&roadlevel=1&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:59,379-INFO]:only fetech address for 25.516562-103.782082
+[2022-04-15 22:43:59,379-INFO]:only Access convertUrl: https://restapi.amap.com/v3/assistant/coordinate/convert?locations=103.782082,25.516562&coordsys=gps&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:59,665-INFO]:only Access url: https://restapi.amap.com/v3/geocode/regeo?location=103.784136284723,25.513581814237&roadlevel=1&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:43:59,960-INFO]:only fetech address for 39.904619-116.397683
+[2022-04-15 22:43:59,960-INFO]:only Access convertUrl: https://restapi.amap.com/v3/assistant/coordinate/convert?locations=116.397683,39.904619&coordsys=gps&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:44:00,252-INFO]:only Access url: https://restapi.amap.com/v3/geocode/regeo?location=116.403924967448,39.906021592882&roadlevel=1&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:44:00,521-INFO]:only fetech address for 21.992231-100.332338
+[2022-04-15 22:44:00,521-INFO]:only Access convertUrl: https://restapi.amap.com/v3/assistant/coordinate/convert?locations=100.332338,21.992231&coordsys=gps&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:44:00,802-INFO]:only Access url: https://restapi.amap.com/v3/geocode/regeo?location=100.333473036025,21.989529079862&roadlevel=1&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:44:01,075-INFO]:only fetech address for 22.991431-101.332338
+[2022-04-15 22:44:01,075-INFO]:only Access convertUrl: https://restapi.amap.com/v3/assistant/coordinate/convert?locations=101.332338,22.991431&coordsys=gps&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:44:01,356-INFO]:only Access url: https://restapi.amap.com/v3/geocode/regeo?location=101.333918728299,22.988712836372&roadlevel=1&key=436d4e1596444771edaa3c653544556a
+[2022-04-15 22:44:01,621-INFO]:only线程结束！
+[2022-04-15 22:44:01,623-INFO]:导出开始！
+[2022-04-15 22:44:01,623-INFO]:分段导出开始！
+[2022-04-15 22:44:01,623-INFO]:分段_0，导出开始！
+[2022-04-15 22:44:01,624-INFO]:分段_0，id：21.67716-100.0165，数据格式转换完成！
+[2022-04-15 22:44:01,624-INFO]:分段_0，id：21.84927-99.80688，数据格式转换完成！
+[2022-04-15 22:44:01,624-INFO]:分段_0，id：21.84827-99.80688，数据格式转换完成！
+[2022-04-15 22:44:01,636-INFO]:分段_0，导出完成！
+[2022-04-15 22:44:01,636-INFO]:分段_1，导出开始！
+[2022-04-15 22:44:01,638-INFO]:分段_1，id：25.516062-103.782082，数据格式转换完成！
+[2022-04-15 22:44:01,638-INFO]:分段_1，id：39.904619-116.397683，数据格式转换完成！
+[2022-04-15 22:44:01,638-INFO]:分段_1，id：21.991231-100.332338，数据格式转换完成！
+[2022-04-15 22:44:01,641-INFO]:分段_1，导出完成！
+[2022-04-15 22:44:01,642-INFO]:分段_2，导出开始！
+[2022-04-15 22:44:01,643-INFO]:分段_2，id：22.991231-101.332338，数据格式转换完成！
+[2022-04-15 22:44:01,643-INFO]:分段_2，id：25.514062-103.782082，数据格式转换完成！
+[2022-04-15 22:44:01,643-INFO]:分段_2，id：39.905619-116.397683，数据格式转换完成！
+[2022-04-15 22:44:01,646-INFO]:分段_2，导出完成！
+[2022-04-15 22:44:01,647-INFO]:分段_3，导出开始！
+[2022-04-15 22:44:01,648-INFO]:分段_3，id：21.996231-100.332338，数据格式转换完成！
+[2022-04-15 22:44:01,648-INFO]:分段_3，id：22.991331-101.332338，数据格式转换完成！
+[2022-04-15 22:44:01,648-INFO]:分段_3，id：25.516562-103.782082，数据格式转换完成！
+[2022-04-15 22:44:01,651-INFO]:分段_3，导出完成！
+[2022-04-15 22:44:01,652-INFO]:分段_4，导出开始！
+[2022-04-15 22:44:01,653-INFO]:分段_4，id：39.904619-116.397683，数据格式转换完成！
+[2022-04-15 22:44:01,653-INFO]:分段_4，id：21.992231-100.332338，数据格式转换完成！
+[2022-04-15 22:44:01,653-INFO]:分段_4，id：22.991431-101.332338，数据格式转换完成！
+[2022-04-15 22:44:01,657-INFO]:分段_4，导出完成！
+[2022-04-15 22:44:01,657-INFO]:所有分段导出结束！
+[2022-04-15 22:44:01,657-INFO]:导出结束！
+[2022-04-15 22:44:24,274-INFO]:导出开始！
+[2022-04-15 22:44:24,274-INFO]:分段导出开始！
+[2022-04-15 22:44:24,275-INFO]:分段_0，导出开始！
+[2022-04-15 22:44:24,276-INFO]:分段_0，id：21.67716-100.0165，数据格式转换完成！
+[2022-04-15 22:44:24,276-INFO]:分段_0，id：21.84927-99.80688，数据格式转换完成！
+[2022-04-15 22:44:24,276-INFO]:分段_0，id：21.84827-99.80688，数据格式转换完成！
+[2022-04-15 22:44:24,280-INFO]:分段_0，导出完成！
+[2022-04-15 22:44:24,280-INFO]:分段_1，导出开始！
+[2022-04-15 22:44:24,282-INFO]:分段_1，id：25.516062-103.782082，数据格式转换完成！
+[2022-04-15 22:44:24,282-INFO]:分段_1，id：39.904619-116.397683，数据格式转换完成！
+[2022-04-15 22:44:24,282-INFO]:分段_1，id：21.991231-100.332338，数据格式转换完成！
+[2022-04-15 22:44:24,287-INFO]:分段_1，导出完成！
+[2022-04-15 22:44:24,287-INFO]:分段_2，导出开始！
+[2022-04-15 22:44:24,289-INFO]:分段_2，id：22.991231-101.332338，数据格式转换完成！
+[2022-04-15 22:44:24,289-INFO]:分段_2，id：25.514062-103.782082，数据格式转换完成！
+[2022-04-15 22:44:24,289-INFO]:分段_2，id：39.905619-116.397683，数据格式转换完成！
+[2022-04-15 22:44:24,292-INFO]:分段_2，导出完成！
+[2022-04-15 22:44:24,292-INFO]:分段_3，导出开始！
+[2022-04-15 22:44:24,293-INFO]:分段_3，id：21.996231-100.332338，数据格式转换完成！
+[2022-04-15 22:44:24,294-INFO]:分段_3，id：22.991331-101.332338，数据格式转换完成！
+[2022-04-15 22:44:24,294-INFO]:分段_3，id：25.516562-103.782082，数据格式转换完成！
+[2022-04-15 22:44:24,297-INFO]:分段_3，导出完成！
+[2022-04-15 22:44:24,297-INFO]:分段_4，导出开始！
+[2022-04-15 22:44:24,298-INFO]:分段_4，id：39.904619-116.397683，数据格式转换完成！
+[2022-04-15 22:44:24,299-INFO]:分段_4，id：21.992231-100.332338，数据格式转换完成！
+[2022-04-15 22:44:24,299-INFO]:分段_4，id：22.991431-101.332338，数据格式转换完成！
+[2022-04-15 22:44:24,302-INFO]:分段_4，导出完成！
+[2022-04-15 22:44:24,302-INFO]:所有分段导出结束！
+[2022-04-15 22:44:24,302-INFO]:导出结束！
+[2022-04-15 22:54:17,017-INFO]:加载配置文件：F:\python project\address_tool\config.ini
+[2022-04-15 22:54:17,017-INFO]:配置项：['ak', 'days', 'is_switch', 'is_files', 'sep_location', 'is_header', 'maximum', 'threads', 'mongo_host', 'mongo_port', 'mongo_dbname', 'mongo_collection']
+[2022-04-15 22:54:17,145-INFO]:配置加载完成！
