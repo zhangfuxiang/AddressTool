@@ -38,7 +38,6 @@ class AddressTool(wx.Frame):
             lat = row["lat"]
             lon = row["lon"]
             createtime = row["createtime"]
-            # sp, lac, ci = id.split("-")
             return {"id": id, "lat": lat, "lon": lon, "createtime": createtime}
 
         query = self.t.db[self.t.collection].find()
@@ -74,8 +73,6 @@ class AddressTool(wx.Frame):
         file.close()
         df = pd.read_csv(self.FileName.GetValue(), sep=",")
         rows = df.to_dict(orient="records")
-        # crawled_set = set(self.t.db[self.t.collection].distinct("id"))
-        # crawled_set = set([i["id"] for i in t.db[self.t.collection].find()])
         crawled_set = set([i["id"] for i in self.t.db[self.t.collection].find()])
         self.t.logger.info("crawled is %s" % len(crawled_set))
         if len(rows) > self.t.maximum:
